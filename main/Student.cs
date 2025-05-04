@@ -6,7 +6,7 @@ namespace School
 
         public List<double> Grades { get; set; } = new List<double>();
 
-        public Student(string name, int age, string enrollment) :  base(name, age)
+        public Student(string name, int age, string enrollment) : base(name, age)
         {
             this.Enrollment = enrollment;
 
@@ -36,6 +36,13 @@ namespace School
             return CalcAverage() >= 7.0 ? "Approved" : "Not Approved";
         }
 
+        public void Info()
+        {
+            Console.WriteLine($"Student Name: {Name}");
+            Console.WriteLine("Student Grades: " + string.Join(", ", Grades));
+            Console.WriteLine($"Student Average: {CalcAverage():F2}");
+            Console.WriteLine($"Student Condition: {Condition()}");
+        }
 
     }
 

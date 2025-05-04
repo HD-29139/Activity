@@ -27,5 +27,13 @@ namespace School
         {
             return CalculateFinalSalary() * 0.75;
         }
+
+        public void Info()
+        {
+            Console.WriteLine($"Teacher Name: {Name}");
+            Console.WriteLine($"Teacher Final Salary: {CalculateFinalSalary():F2}");
+            Console.WriteLine($"Teacher Retirement Value: {CalculateRetirement():F2}");
+            Console.WriteLine($"Can Retire?: {(CanRetire() ? "Yes" : "No, go work now")}");
+        }
     }
 }
