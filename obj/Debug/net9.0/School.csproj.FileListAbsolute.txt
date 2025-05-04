@@ -1,0 +1,15 @@
+/home/ArchJefferson/School/bin/Debug/net9.0/School
+/home/ArchJefferson/School/bin/Debug/net9.0/School.deps.json
+/home/ArchJefferson/School/bin/Debug/net9.0/School.runtimeconfig.json
+/home/ArchJefferson/School/bin/Debug/net9.0/School.dll
+/home/ArchJefferson/School/bin/Debug/net9.0/School.pdb
+/home/ArchJefferson/School/obj/Debug/net9.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/home/ArchJefferson/School/obj/Debug/net9.0/School.AssemblyInfoInputs.cache
+/home/ArchJefferson/School/obj/Debug/net9.0/School.AssemblyInfo.cs
+/home/ArchJefferson/School/obj/Debug/net9.0/School.csproj.CoreCompileInputs.cache
+/home/ArchJefferson/School/obj/Debug/net9.0/School.sourcelink.json
+/home/ArchJefferson/School/obj/Debug/net9.0/School.dll
+/home/ArchJefferson/School/obj/Debug/net9.0/refint/School.dll
+/home/ArchJefferson/School/obj/Debug/net9.0/School.pdb
+/home/ArchJefferson/School/obj/Debug/net9.0/School.genruntimeconfig.cache
+/home/ArchJefferson/School/obj/Debug/net9.0/ref/School.dll
